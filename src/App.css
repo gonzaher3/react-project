@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: blueviolet;
+}
+body {
+  background-color: darkgreen;
+}
+.foundation {
+  background-color: cadetblue;
+}
+img {
+  width: 100px;
+}
